@@ -1,3 +1,5 @@
+// (Game: play a tic-tac-toe game)
+
 import java.util.Scanner;
 
 public class TicTacToeGame {
